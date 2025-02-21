@@ -16,7 +16,7 @@ This project leverages Machine Learning to predict whether a mushroom is edible 
 <li>Data Preprocessing: One-Hot Encoding, Ordinal Encoding</li>
 <li>Model Deployment: Joblib for model persistence</li>
 </ol>
-<h3> Installation & Usage/<h3>
+<h3> Installation & Usage</h3>h3>
 <ol>
 <li>Clone the Repository</li>
 
@@ -25,14 +25,14 @@ This project leverages Machine Learning to predict whether a mushroom is edible 
 <li></li>
 </ol>
 
-<h3>Model Evaluation/<h3>
+<h3>Model Evaluation</h3>h3>
 <ol>
 <li>Accuracy: [Insert model accuracy here]</li>
 <li>Precision, Recall, F1-score evaluated using classification reports.</li>
 
 </ol>
 
-<h3> Future Enhancements/<h3>
+<h3> Future Enhancements</h3>h3>
 <ol>
 <li>Deploy as a Web App (Flask or Streamlit)</li>
 <li>Incorporate Image Recognition for better classification</li>
