@@ -35,8 +35,10 @@ This project leverages Machine Learning to predict whether a mushroom is edible 
 <ol>
 <li>Deploy as a Web App (Flask or Streamlit)</li>
 <li>Incorporate Image Recognition for better classification</li>
-<li>
-
-Real-time Data Integration</li>
-
+<li>Real-time Data Integration</li>
+</ol>
+<h3> Acknowledgments</h3>
+<ol>
+<li>UCI Machine Learning Repository for the dataset.</li>
+<li>Open-source contributors & community.</li>
 </ol>
